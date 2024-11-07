@@ -1,5 +1,5 @@
 # Infrastruktur som kode med Terraform og AWS App runner
-
+#HEIIIIIIIII
 Når du er ferdig med denne oppgaven, vil du ha et repository som inneholder en Spring Boot-applikasjon. Hver gang du gjør en commit til main branch, vil GitHub Actions utføre følgende:
 
 - Bygge et Docker-image og pushe det til ECR, både med en "latest"-tag og en spesifikk tag som matcher git commit.
